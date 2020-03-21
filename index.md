@@ -1,9 +1,13 @@
 ## About me
 Hello! I am Yuanda Wang. I am a first year Ph.D student in SEIT Lab, Michigan State University.
 
-### Education
+## Education
 I received my B.S. degree from [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2016, and Master degree from [North China Electric Power University (Beijing)](https://www.ncepu.edu.cn/) in 2019, both in Electrical Engineering.
 
+## Resarch area
+-Wireless Network and Mobile System
+-IoT System Security
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -17,6 +21,7 @@ I received my B.S. degree from [Xi'an Jiao Tong University](http://www.xjtu.edu.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
