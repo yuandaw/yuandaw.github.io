@@ -85,7 +85,7 @@ author:
   bio              : "Hello all, I am Yuanda, a PhD student from Michigan State University."
   location         : "East Lansing, MI, USA"
   employer         :
-  pubmed           : "https://yuandaw.github.io"
+  pubmed           : #"https://yuandaw.github.io"
   googlescholar    : "https://scholar.google.com/citations?user=1wSF28AAAAAJ&hl=en&oi=ao"
   email            : "wangy208@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
