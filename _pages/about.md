@@ -26,7 +26,7 @@ CSE 335: Objected-oriented Software Development, Fall 2021 and Spring 2022.
 
 Invited Talk
 ======
-Michigan State University Graduate Student Seminar: The Great Outage — Facebook Global Outage.
+Michigan State University Graduate Student Seminar: The Great Outage — Facebook Global Outage on Oct.4, 2021.
 
 Review Service
 ======

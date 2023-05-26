@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuanda Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuanda Wang"
 description              : &description "personal description"
 url                      : https://yuandaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
