@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuanda Wang"
   avatar           : "yuanda.png"
-  bio              : "Hello all, I am Yuanda, PhD student from Michigan State University."
+  bio              : "Hello all, I am Yuanda, a PhD student from Michigan State University."
   location         : "East Lansing, MI, USA"
   employer         :
   pubmed           : "https://yuandaw.github.io"
   googlescholar    : "https://scholar.google.com/citations?user=1wSF28AAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "wangy208@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
