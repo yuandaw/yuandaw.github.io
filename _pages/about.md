@@ -38,4 +38,4 @@ IEEE Transactions on Industrial Informatics
 
 IEEE Internet of Things Journal
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=v7MlErWIlGyWy2W4NRYHD1iOxc-4713pg6VsacZGAFQ"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=04aa44&w=243&t=n&d=v7MlErWIlGyWy2W4NRYHD1iOxc-4713pg6VsacZGAFQ&co=a8d7f9&cmn=cc3a4d&cmo=ffffff'></script>
