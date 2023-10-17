@@ -38,6 +38,4 @@ IEEE Transactions on Industrial Informatics
 
 IEEE Internet of Things Journal
 
-Visitor Map
-======
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=07890b&w=150&t=n&d=v7MlErWIlGyWy2W4NRYHD1iOxc-4713pg6VsacZGAFQ&co=68addd&cmn=ff0000&cmo=ffffff'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=v7MlErWIlGyWy2W4NRYHD1iOxc-4713pg6VsacZGAFQ"></script>
