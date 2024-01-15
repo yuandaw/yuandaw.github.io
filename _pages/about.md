@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on AI security, cyber physcial security and IoT security, especially threats related to voice user interface (VUI) and side-channel attacks in real-world. My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
+I am a fourth year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on AI security, cyber physcial security and IoT security, especially threats and privacy issues related to speaker and speech recognition (CCS'22, RAID'23), side-channel attacks (NDSS'22), and generative AI security (WiSec'23, RAID'23). My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
 
 Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/). 
 
