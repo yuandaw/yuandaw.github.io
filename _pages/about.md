@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on AI security, cyber physcial security and IoT security, especially threats and privacy issues related to speaker and speech recognition (CCS'22, RAID'23), side-channel attacks (NDSS'22), and generative AI security (WiSec'23, RAID'23). My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
+I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on cybersecurity area, especially threats and privacy issues related to speaker and speech recognition (CCS'22, RAID'23, MobiCom'24), side-channel attacks (NDSS'22), LLM security (RAID'23), generative AI security (WiSec'23) and IoT serucity (MobiCom'20, CNS'24). I also  My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
 
 Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/). 
 
@@ -18,6 +18,9 @@ My full paper list is [here](https://yuandaw.github.io/publications/).
 
 Awards
 ======
+
+Dissertation Completion Fellowship (DCF) 2024, Michigan State University
+
 Best Paper Honorable Mention Award, [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 
 Student Travel Grant, [CNS 2020](https://cns2020.ieee-cns.org/).
