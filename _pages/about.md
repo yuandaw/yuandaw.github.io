@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on cybersecurity area, especially threats and privacy issues related to speaker and speech recognition (CCS'22, RAID'23, MobiCom'24), side-channel attacks (NDSS'22), LLM security (RAID'23), generative AI security (WiSec'23) and IoT serucity (MobiCom'20, CNS'24). My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). My resume is available [here](https://yuandaw.github.io//files/YuandaWang_CV.pdf). 
+I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on machine learning & security and privacy, especially threats and safety issues related to speech AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, ), side-channel attacks (NDSS'22), LLM safety (RAID'23), and IoT (MobiCom'20, CNS'24). My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). My resume is available [here](https://yuandaw.github.io//files/YuandaWang_CV.pdf).  
 
-Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/). 
+Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2016 and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/) in 2019. 
+
+I'm currently exploring new opportunities in Software Development, Machine Learning Engineering, and Applied Science roles within the U.S. market. If you'd like to connect professionally, feel free to reach out via LinkedIn or contact me directly through email.
 
 Publications
 ======
