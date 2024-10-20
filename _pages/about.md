@@ -12,7 +12,7 @@ I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), depa
 
 Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2016 and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/) in 2019. 
 
-I'm currently exploring new opportunities in Software Development, Machine Learning Engineering, and Applied Science roles within the U.S. market. If you'd like to connect professionally, feel free to reach out via LinkedIn or contact me directly through email.
+I'm currently exploring new opportunities in Software Engineer, Machine Learning Engineer, and Applied Scientist roles within the U.S. market. If you'd like to connect professionally, feel free to reach out via LinkedIn or contact me directly through email.
 
 Publications
 ======
