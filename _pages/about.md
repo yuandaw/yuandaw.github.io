@@ -14,6 +14,12 @@ Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University]
 
 [I'm currently exploring new opportunities in Software Engineer, Machine Learning Engineer, and Applied Scientist roles within the U.S. market. If you'd like to connect professionally, feel free to reach out via LinkedIn or contact me directly through email.](https://www.linkedin.com/in/yuanda-wang-a52663179/)
 
+Experience
+======
+ByteDance Inc., AI security research scientist intern, Jan 2025 - now.
+
+Samsung Research America, Research scientist intern, Sep 2022 - Dec 2022.
+
 Publications
 ======
 My full paper list is [here](https://yuandaw.github.io/publications/).
