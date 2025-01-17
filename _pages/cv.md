@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng. in Electrical Engineering, Xi'an Jiaotong University, Xi'an, 2016.
 * M.Eng. in Electrical Engineering, North China Electric Power University, Beijing, 2019.
-* Ph.D in Computer Science, Michigan State University, East Lansing, 2024 (expected).
+* Ph.D in Computer Science, Michigan State University, East Lansing, 2025.5 (expected).
 
 Work experience
 ======
@@ -21,11 +21,12 @@ Work experience
   * Michigan State University
 * Sep 2022-Dec 2022: Research Intern
   * Samsung Research America
+* Jan 2025-Now: AI Security Research Scientist Intern
+  * ByteDance Inc.
   
 Skills
 ======
 * Python
-* Matlab
 * C++
 * ...
   

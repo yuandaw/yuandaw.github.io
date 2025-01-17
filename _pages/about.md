@@ -43,10 +43,14 @@ Michigan State University Graduate Student Seminar: The Great Outage — Faceboo
 
 Review Service
 ======
-IEEE Transactions on Mobile Computing 
+* Journal
+  * IEEE Transactions on Mobile Computing 
+  * IEEE Transactions on Industrial Informatics
+  * IEEE Internet of Things Journal
+  * IEEE MultiMedia
 
-IEEE Transactions on Industrial Informatics
-
-IEEE Internet of Things Journal
+* Conference
+  * ICASSP 2025
+  * AAAI Agent4IR Workshop 2025 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=04aa44&w=243&t=n&d=v7MlErWIlGyWy2W4NRYHD1iOxc-4713pg6VsacZGAFQ&co=a8d7f9&cmn=cc3a4d&cmo=ffffff'></script>
