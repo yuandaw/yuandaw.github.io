@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on machine learning & security and privacy, especially threats and safety topics related to speech AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, ), side-channel attacks (NDSS'22), LLM (RAID'23, ARXIV'24), and IoT (MobiCom'20, CNS'24). My advisor is [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). Currently, I am an AI security research scientist intern in ByteDance, San Jose, where I focus on using LLM to solve security issues in cloud services and firewalls. 
+I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on machine learning & security and privacy, especially threats and safety topics related to speech AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, ), side-channel attacks (NDSS'22), LLM (RAID'23, ARXIV'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). Currently, I am an AI Security Research Scientist Intern at ByteDance, San Jose, where I work on leveraging large language models to enhance security in cloud services and firewalls.
 
 Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2016 and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/) in 2019. 
 
-I'm currently exploring new opportunities in Software Engineer, Machine Learning Engineer, and Applied Scientist roles within the U.S. market. If you'd like to connect professionally, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yuanda-wang-a52663179/) or contact me directly through email.
+I'm also exploring new opportunities in Software Engineer, Machine Learning Engineer, and Applied Scientist roles within the U.S. market. If you'd like to connect professionally, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yuanda-wang-a52663179/) or contact me directly through email.
 
 Industry Experience
 ======
-ByteDance Inc., AI Security Research Scientist Intern, Feb 2025 - Now.
+ByteDance Inc., AI Security Research Scientist Intern, San Jose, Feb 2025 - Now.
 
-Samsung Research America, Research Scientist Intern, Sep 2022 - Dec 2022.
+Samsung Research America, Research Scientist Intern, Mountain View, Sep 2022 - Dec 2022.
 
 Publications
 ======
