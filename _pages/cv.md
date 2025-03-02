@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Resume
+======
+* Please check my resume [HERE](https://yuandaw.github.io//files/Yuanda_RESUME.pdf).
 
 Education
 ======
