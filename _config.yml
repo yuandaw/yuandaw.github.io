@@ -88,8 +88,8 @@ author:
   pubmed           : #"https://yuandaw.github.io"
   googlescholar    : "https://scholar.google.com/citations?user=1wSF28AAAAAJ&hl=en&oi=ao"
   email            : "wangy208@msu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://yuandaw.github.io//files/Yuanda_RESUME.pdf
+  researchgate     : "https://yuandaw.github.io//files/Yuanda_RESUME.pdf"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
