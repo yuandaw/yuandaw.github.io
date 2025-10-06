@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on machine learning & security and privacy, especially threats and safety topics related to speech AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25), side-channel attacks (NDSS'22), LLM safety(RAID'23, Arxiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). Currently, I am an AI Security Research Scientist Intern at ByteDance, San Jose, where I work on leveraging GenAI/LLM to detect threats and enhance security in cloud services and firewalls.
+I am a final year PhD candidate from [SEIT lab](https://seit.egr.msu.edu/), department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research is focusing on trustworthy AI & security and privacy, especially threats and safety topics related to speech AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25), voice control systems (NDSS'22), LLM (RAID'23, Arxiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). Currently, I am an Multimodal Trustworthy Research Intern at Dolby Laboratories, San Francisco, where I work on music watermarking for privacy and copyrights.
 
 Before my PhD career in MSU, I obtained my BEng from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2016 and MEng from [North China Electric Power Univesity (Beijing)](https://english.ncepu.edu.cn/) in 2019. 
 
@@ -16,7 +16,9 @@ I'm also exploring new opportunities in Software Engineer, Machine Learning Engi
 
 Industry Experience
 ======
-ByteDance Inc., AI Security Research Scientist Intern, San Jose, Feb 2025 - Now.
+Dolby Laboratories, Multimodal Trustworthy Research Intern, San Francisco, Sep 2025 - Now.
+
+ByteDance Inc., AI Security Research Scientist Intern, San Jose, Feb 2025 - Jul 2025.
 
 Samsung Research America, Research Scientist Intern, Mountain View, Sep 2022 - Dec 2022.
 
