@@ -17,17 +17,17 @@ I'm also exploring new opportunities in Research Scientist, Machine Learning Eng
 
 Industry Experience
 ======
-**Dolby Laboratories**, San Francisco  
-Multimodal Trustworthy Research Intern | Sep 2025 - Dec 2025  
-- Audio watermarking robustness benchmarking and optimization
 
-**ByteDance Inc.**, San Jose  
-AI Security Research Scientist Intern | Feb 2025 - Jul 2025  
-- Develop WAF applications with LLM-enhanced anomaly detection and web bot prevention
+**Multimodal Trustworthy Research Intern** | **Dolby Laboratories**, Sunnyvale ｜ Sep 2025 - Dec 2025  
+- Audio watermarking robustness benchmarking and optimization.
 
-**Samsung Research America**, Mountain View  
-Research Scientist Intern | Sep 2022 - Dec 2022  
-- Test the robustness of voice assistants in real-world scenarios and improve security
+<!-- **ByteDance Inc.**, San Jose   -->
+**AI Security Research Scientist Intern** | **ByteDance Inc.**, San Jose ｜ Feb 2025 - Jul 2025  
+- Develop WAF applications with LLM-enhanced anomaly detection and web bot prevention.
+
+<!-- **Samsung Research America**, Mountain View   -->
+**Research Scientist Intern** | **Samsung Research America**, Mountain View ｜ Sep 2022 - Dec 2022  
+- Test the robustness of voice assistants in real-world scenarios and improve security.
 
 ---
 
