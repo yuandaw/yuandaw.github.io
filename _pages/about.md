@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate from [SEIT Lab](https://seit.egr.msu.edu/), Department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research focuses on **trustworthy AI, security & privacy** — especially threats and defenses related to Multimodal AI ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560523), WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25), voice control systems (NDSS'22), LLMs (RAID'23, Arxiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
+I am a final-year PhD candidate from [SEIT Lab](https://seit.egr.msu.edu/), Department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research focuses on **trustworthy AI, security & privacy** — especially threats and defenses related to Multimodal AI ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560523), WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25), Voice Control Systems (NDSS'22), LLMs (RAID'23, arXiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
 
 Before MSU, I completed my undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China.
 
