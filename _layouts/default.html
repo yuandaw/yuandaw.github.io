@@ -27,5 +27,48 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+      /* Disable greedy-nav so all nav items stay visible */
+      window.addEventListener('load', function() {
+        var hlinks = document.querySelector('#site-nav .hidden-links');
+        var vlinks = document.querySelector('#site-nav .visible-links');
+        if (hlinks && vlinks) {
+          while (hlinks.children.length > 0) {
+            vlinks.appendChild(hlinks.children[0]);
+          }
+          hlinks.classList.add('hidden');
+        }
+      });
+
+      document.addEventListener('DOMContentLoaded', function() {
+        var btn = document.getElementById('theme-toggle');
+        var label = document.getElementById('theme-label');
+        var icon = document.getElementById('theme-icon');
+        if (!btn) return;
+
+        function applyTheme(dark) {
+          if (dark) {
+            document.documentElement.classList.add('dark-mode');
+            label.textContent = 'Night';
+            icon.className = 'fas fa-moon';
+            localStorage.setItem('theme', 'dark');
+          } else {
+            document.documentElement.classList.remove('dark-mode');
+            label.textContent = 'Day';
+            icon.className = 'fas fa-sun';
+            localStorage.setItem('theme', 'light');
+          }
+        }
+
+        var isDark = document.documentElement.classList.contains('dark-mode');
+        applyTheme(isDark);
+
+        btn.addEventListener('click', function() {
+          var nowDark = document.documentElement.classList.contains('dark-mode');
+          applyTheme(!nowDark);
+        });
+      });
+    </script>
+
   </body>
 </html>
