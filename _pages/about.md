@@ -40,6 +40,18 @@ html.dark-mode .experience-logo {
   border-color: #475569;
   box-shadow: none;
 }
+@media (max-width: 767px) {
+  .experience-header {
+    align-items: flex-start;
+    gap: 0.55em;
+  }
+  .experience-role {
+    flex-basis: 100%;
+  }
+  .experience-meta {
+    margin-left: auto;
+  }
+}
 </style>
 
 I am a final-year PhD candidate from [SEIT Lab](https://seit.egr.msu.edu/), Department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research focuses on **trustworthy AI, security & privacy** — especially threats and defenses related to Multimodal AI ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560523), WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25), Voice Control Systems (NDSS'22), LLMs (RAID'23, arXiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
