@@ -35,10 +35,19 @@
     {% if post.collection == 'publications' %}
       <p class="pub-links">
         {% if post.paperurl and post.paperurl != '' %}
-          <a href="{{ post.paperurl }}" class="pub-btn pub-btn--paper" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
+          <a href="{{ post.paperurl }}" class="pub-btn pub-btn--paper" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Paper</a>
         {% endif %}
         {% if post.slidesurl and post.slidesurl != '' %}
-          <a href="{{ post.slidesurl }}" class="pub-btn pub-btn--slides" target="_blank"><i class="fas fa-chalkboard-teacher"></i> Slides</a>
+          <a href="{{ post.slidesurl }}" class="pub-btn pub-btn--slides" target="_blank" rel="noopener noreferrer"><i class="fas fa-chalkboard-teacher"></i> Slides</a>
+        {% endif %}
+        {% if post.demourl and post.demourl != '' %}
+          <a href="{{ post.demourl }}" class="pub-btn pub-btn--demo" target="_blank" rel="noopener noreferrer"><i class="fas fa-flask"></i> Demo</a>
+        {% endif %}
+        {% if post.videourl and post.videourl != '' %}
+          <a href="{{ post.videourl }}" class="pub-btn pub-btn--video" target="_blank" rel="noopener noreferrer"><i class="fas fa-play-circle"></i> Video</a>
+        {% endif %}
+        {% if post.codeurl and post.codeurl != '' %}
+          <a href="{{ post.codeurl }}" class="pub-btn pub-btn--code" target="_blank" rel="noopener noreferrer"><i class="fas fa-code"></i> Code</a>
         {% endif %}
       </p>
     {% else %}

@@ -34,6 +34,10 @@ redirect_from:
   padding-top: 0.2em;
   white-space: nowrap;
 }
+.bio-body {
+  flex: 1;
+  min-width: 0;
+}
 .bio-body strong {
   display: block;
   font-size: 0.95em;
@@ -41,9 +45,50 @@ redirect_from:
   font-weight: 600;
   margin-bottom: 0.1em;
 }
+.bio-org {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 0.75em;
+  margin-bottom: 0.12em;
+}
+.bio-org strong {
+  flex: 1;
+  min-width: 0;
+  order: 1;
+  margin: 0;
+}
+.bio-org .bio-mark {
+  order: 2;
+}
 .bio-body span {
   font-size: 0.85em;
   color: #64748b;
+}
+.bio-mark {
+  width: 1.95em;
+  height: 1.95em;
+  min-width: 1.95em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.18em;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.16);
+}
+.bio-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+.bio-mark--school {
+  border-radius: 999px;
+}
+.bio-mark--company {
+  border-radius: 0.52em;
 }
 .bio-section-title {
   display: flex;
@@ -101,6 +146,11 @@ html.dark-mode .bio-body span,
 html.dark-mode .bio-date {
   color: #94a3b8;
 }
+html.dark-mode .bio-mark {
+  background: #f8fafc;
+  border-color: #475569;
+  box-shadow: none;
+}
 html.dark-mode .skill-tag {
   background: #1e3a5f;
   color: #93c5fd;
@@ -115,23 +165,38 @@ html.dark-mode .bio-entry {
 <div class="bio-section">
   <div class="bio-section-title"><i class="fas fa-graduation-cap"></i> Education</div>
   <div class="bio-entry">
-    <div class="bio-date">2019 – 2026</div>
+    <div class="bio-date">2020 – 2026</div>
     <div class="bio-body">
-      <strong>Ph.D. in Computer Science</strong>
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--school">
+          <img src="{{ base_path }}/images/logos/msu-school.ico" alt="Michigan State University logo" loading="lazy" decoding="async">
+        </span>
+        <strong>Ph.D. in Computer Science</strong>
+      </div>
       <span>Michigan State University · East Lansing, MI</span>
     </div>
   </div>
   <div class="bio-entry">
     <div class="bio-date">2016 – 2019</div>
     <div class="bio-body">
-      <strong>M.Eng. in Electrical Engineering</strong>
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--school">
+          <img src="{{ base_path }}/images/logos/ncepu-school.ico" alt="North China Electric Power University logo" loading="lazy" decoding="async">
+        </span>
+        <strong>M.Eng. in Electrical Engineering</strong>
+      </div>
       <span>North China Electric Power University · Beijing, China</span>
     </div>
   </div>
   <div class="bio-entry">
     <div class="bio-date">2012 – 2016</div>
     <div class="bio-body">
-      <strong>B.Eng. in Electrical Engineering</strong>
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--school">
+          <img src="{{ base_path }}/images/logos/xjtu-school.png" alt="Xi'an Jiaotong University logo" loading="lazy" decoding="async">
+        </span>
+        <strong>B.Eng. in Electrical Engineering</strong>
+      </div>
       <span>Xi'an Jiaotong University · Xi'an, China</span>
     </div>
   </div>
@@ -142,21 +207,36 @@ html.dark-mode .bio-entry {
   <div class="bio-entry">
     <div class="bio-date">Sep – Dec 2025</div>
     <div class="bio-body">
-      <strong>Multimodal Trustworthy AI Research Intern</strong>
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--company">
+          <img src="{{ base_path }}/images/logos/dolby.svg" alt="Dolby logo" loading="lazy" decoding="async">
+        </span>
+        <strong>Multimodal Trustworthy AI Research Intern</strong>
+      </div>
       <span>Dolby Laboratories · Sunnyvale, CA</span>
     </div>
   </div>
   <div class="bio-entry">
     <div class="bio-date">Feb – Jul 2025</div>
     <div class="bio-body">
-      <strong>AI Security Research Scientist Intern</strong>
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--company">
+          <img src="{{ base_path }}/images/logos/bytedance.svg" alt="ByteDance logo" loading="lazy" decoding="async">
+        </span>
+        <strong>AI Security Research Scientist Intern</strong>
+      </div>
       <span>ByteDance Inc. · San Jose, CA</span>
     </div>
   </div>
   <div class="bio-entry">
     <div class="bio-date">Sep – Dec 2022</div>
     <div class="bio-body">
-      <strong>Research Scientist Intern</strong>
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--company">
+          <img src="{{ base_path }}/images/logos/samsung.svg" alt="Samsung logo" loading="lazy" decoding="async">
+        </span>
+        <strong>Research Scientist Intern</strong>
+      </div>
       <span>Samsung Research America · Mountain View, CA</span>
     </div>
   </div>

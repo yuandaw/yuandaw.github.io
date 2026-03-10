@@ -8,6 +8,40 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
+<style>
+.experience-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  white-space: nowrap;
+}
+.experience-logo {
+  width: 1.8em;
+  height: 1.8em;
+  min-width: 1.8em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2em;
+  border-radius: 0.5em;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+}
+.experience-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+html.dark-mode .experience-logo {
+  background: #f8fafc;
+  border-color: #475569;
+  box-shadow: none;
+}
+</style>
+
 I am a final-year PhD candidate from [SEIT Lab](https://seit.egr.msu.edu/), Department of [Computer Science and Engineering](https://cse.msu.edu/), [Michigan State University](https://msu.edu/). My research focuses on **trustworthy AI, security & privacy** — especially threats and defenses related to Multimodal AI ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560523), WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25), Voice Control Systems (NDSS'22), LLMs (RAID'23, arXiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
 
 Before MSU, I completed my undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China.
@@ -19,7 +53,12 @@ I'm actively seeking **Research Scientist, ML Engineer, or AI Engineer** roles i
 <div class="experience-item">
   <div class="experience-header">
     <span class="experience-role">Multimodal Trustworthy Research Intern</span>
-    <span class="experience-date">Sep – Dec 2025</span>
+    <span class="experience-meta">
+      <span class="experience-logo">
+        <img src="{{ base_path }}/images/logos/dolby.svg" alt="Dolby logo" loading="lazy" decoding="async">
+      </span>
+      <span class="experience-date">Sep – Dec 2025</span>
+    </span>
   </div>
   <div class="experience-company">Dolby Laboratories · Sunnyvale, CA</div>
   <ul>
@@ -30,7 +69,12 @@ I'm actively seeking **Research Scientist, ML Engineer, or AI Engineer** roles i
 <div class="experience-item">
   <div class="experience-header">
     <span class="experience-role">AI Security Research Scientist Intern</span>
-    <span class="experience-date">Feb – Jul 2025</span>
+    <span class="experience-meta">
+      <span class="experience-logo">
+        <img src="{{ base_path }}/images/logos/bytedance.svg" alt="ByteDance logo" loading="lazy" decoding="async">
+      </span>
+      <span class="experience-date">Feb – Jul 2025</span>
+    </span>
   </div>
   <div class="experience-company">ByteDance Inc. · San Jose, CA</div>
   <ul>
@@ -41,7 +85,12 @@ I'm actively seeking **Research Scientist, ML Engineer, or AI Engineer** roles i
 <div class="experience-item">
   <div class="experience-header">
     <span class="experience-role">Research Scientist Intern</span>
-    <span class="experience-date">Sep – Dec 2022</span>
+    <span class="experience-meta">
+      <span class="experience-logo">
+        <img src="{{ base_path }}/images/logos/samsung.svg" alt="Samsung logo" loading="lazy" decoding="async">
+      </span>
+      <span class="experience-date">Sep – Dec 2022</span>
+    </span>
   </div>
   <div class="experience-company">Samsung Research America · Mountain View, CA</div>
   <ul>
