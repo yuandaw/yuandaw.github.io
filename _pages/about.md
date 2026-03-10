@@ -49,7 +49,7 @@ html.dark-mode .experience-logo {
     flex-basis: 100%;
   }
   .experience-meta {
-    margin-left: auto;
+    margin-left: 0;
   }
 }
 </style>
