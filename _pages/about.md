@@ -64,6 +64,22 @@ I'm actively seeking **Research Scientist, ML Engineer, or AI Engineer** roles i
 
 <div class="experience-item">
   <div class="experience-header">
+    <span class="experience-role">Research Scientist Intern</span>
+    <span class="experience-meta">
+      <span class="experience-logo">
+        <img src="{{ base_path }}/images/logos/adobe.svg" alt="Adobe logo" loading="lazy" decoding="async">
+      </span>
+      <span class="experience-date">Feb 2026 – Present</span>
+    </span>
+  </div>
+  <div class="experience-company">Adobe Research · San Jose, CA</div>
+  <ul>
+    <li>Deveop large-capacity audio watermarking model.</li>
+  </ul>
+</div>
+
+<div class="experience-item">
+  <div class="experience-header">
     <span class="experience-role">Multimodal Trustworthy Research Intern</span>
     <span class="experience-meta">
       <span class="experience-logo">

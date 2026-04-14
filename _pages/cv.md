@@ -205,6 +205,18 @@ html.dark-mode .bio-entry {
 <div class="bio-section">
   <div class="bio-section-title"><i class="fas fa-briefcase"></i> Professional Experience</div>
   <div class="bio-entry">
+    <div class="bio-date">Feb 2026 – Present</div>
+    <div class="bio-body">
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--company">
+          <img src="{{ base_path }}/images/logos/adobe.svg" alt="Adobe logo" loading="lazy" decoding="async">
+        </span>
+        <strong>Research Scientist Intern</strong>
+      </div>
+      <span>Adobe Research · San Jose, CA</span>
+    </div>
+  </div>
+  <div class="bio-entry">
     <div class="bio-date">Sep – Dec 2025</div>
     <div class="bio-body">
       <div class="bio-org">
