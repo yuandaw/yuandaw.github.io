@@ -46,6 +46,11 @@ html.dark-mode .experience-logo {
   margin-left: auto;
   margin-right: auto;
 }
+.visitor-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 @media (max-width: 767px) {
   .experience-header {
     align-items: flex-start;
@@ -163,5 +168,7 @@ Michigan State University Graduate Student Seminar: *The Great Outage — Facebo
 - AAAI Agent4IR Workshop 2025
 
 <div class="visitor-map">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UHI13khxg5ADg197FaCjqm4DGFIpEq7o6I73ImVXMic&cl=ffffff&w=a"></script>
+  <a href="https://mapmyvisitors.com/web/1c7dk" title="View visitor map and statistics">
+    <img src="https://mapmyvisitors.com/map.png?d=UHI13khxg5ADg197FaCjqm4DGFIpEq7o6I73ImVXMic&cl=ffffff" alt="Map of visitor locations" loading="lazy" decoding="async">
+  </a>
 </div>

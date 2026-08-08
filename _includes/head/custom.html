@@ -6,7 +6,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ base_path }}/images/favicon-32x32.png?v=20260310">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ base_path }}/images/favicon-16x16.png?v=20260310">
 <link rel="shortcut icon" href="{{ base_path }}/images/favicon.ico?v=20260310">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#0b2538">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css"/>
 
 <style>
@@ -18,18 +18,50 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: #2563eb;
+  color: var(--site-blue);
 }
 
 :root {
+  --site-navy: #12324a;
+  --site-navy-strong: #0b2538;
+  --site-blue: #1d4f73;
+  --site-blue-hover: #143b59;
+  --site-blue-soft: #eaf1f6;
+  --site-blue-border: #b8ccda;
   --profile-text: #334155;
-  --profile-link: #1e293b;
-  --profile-link-hover: #1d4ed8;
-  --profile-icon-color: #1d4ed8;
-  --profile-icon-bg: #eff6ff;
-  --profile-icon-border: #bfdbfe;
-  --profile-icon-hover-bg: #dbeafe;
-  --profile-icon-hover-border: #93c5fd;
+  --profile-link: var(--site-navy);
+  --profile-link-hover: var(--site-blue);
+  --profile-icon-color: var(--site-blue);
+  --profile-icon-bg: var(--site-blue-soft);
+  --profile-icon-border: var(--site-blue-border);
+  --profile-icon-hover-bg: #d9e7f0;
+  --profile-icon-hover-border: #89adc3;
+}
+
+.masthead {
+  border-bottom-color: var(--site-blue-border);
+  box-shadow: 0 2px 12px rgba(11, 37, 56, 0.06);
+}
+.masthead__menu-item--lg a,
+.page__title,
+.author__name {
+  color: var(--site-navy-strong);
+}
+.masthead__menu-item a:hover {
+  color: var(--site-blue);
+}
+.page__content a:not(.pub-btn) {
+  color: var(--site-blue);
+  text-underline-offset: 0.16em;
+}
+.page__content a:not(.pub-btn):hover {
+  color: var(--site-blue-hover);
+}
+.archive__item-title a {
+  color: var(--site-navy) !important;
+}
+.archive__item-title a:hover {
+  color: var(--site-blue) !important;
 }
 
 /* Dark mode toggle button */
@@ -73,8 +105,8 @@
   }
 }
 #theme-toggle:hover {
-  background: #f1f5f9;
-  color: #1e293b;
+  background: var(--site-blue-soft);
+  color: var(--site-navy);
 }
 html.dark-mode #theme-toggle {
   background: #1e293b;
@@ -187,39 +219,46 @@ html.dark-mode #theme-toggle:hover {
 
 /* ── Dark mode ── */
 html.dark-mode {
-  --bg: #0f172a;
-  --surface: #1e293b;
-  --border: #334155;
-  --text: #e2e8f0;
-  --text-muted: #94a3b8;
-  --primary: #f1f5f9;
-  --link: #60a5fa;
-  --link-hover: #93c5fd;
-  --profile-text: #cbd5e1;
-  --profile-link: #e2e8f0;
-  --profile-link-hover: #93c5fd;
-  --profile-icon-color: #dbeafe;
-  --profile-icon-bg: #1e3a8a;
-  --profile-icon-border: #3b82f6;
-  --profile-icon-hover-bg: #2563eb;
-  --profile-icon-hover-border: #60a5fa;
+  --bg: #091820;
+  --surface: #112832;
+  --border: #28444c;
+  --text: #e1eeeb;
+  --text-muted: #91aaa6;
+  --primary: #f1f7f5;
+  --link: #78b7dc;
+  --link-hover: #a5d2eb;
+  --site-navy: #d7e9e4;
+  --site-navy-strong: #f1f7f5;
+  --site-blue: #78b7dc;
+  --site-blue-hover: #a5d2eb;
+  --site-blue-soft: #163449;
+  --site-blue-border: #315f7c;
+  --profile-text: #c5d8d4;
+  --profile-link: #e1eeeb;
+  --profile-link-hover: #a5d2eb;
+  --profile-icon-color: #acd5eb;
+  --profile-icon-bg: #163449;
+  --profile-icon-border: #315f7c;
+  --profile-icon-hover-bg: #1c4965;
+  --profile-icon-hover-border: #5b91b2;
 }
 html.dark-mode body,
 html.dark-mode .page,
 html.dark-mode .page__content {
-  background-color: #0f172a;
-  color: #e2e8f0;
+  background-color: var(--bg);
+  color: var(--text);
 }
 html.dark-mode .masthead {
-  background-color: #1e293b;
-  border-bottom-color: #334155;
+  background-color: var(--surface);
+  border-bottom-color: var(--site-blue-border);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.22);
 }
 html.dark-mode .masthead a,
 html.dark-mode .masthead__menu-item a {
-  color: #e2e8f0;
+  color: var(--text);
 }
 html.dark-mode .masthead__menu-item--lg a {
-  color: #f1f5f9;
+  color: var(--primary);
 }
 html.dark-mode #theme-toggle {
   border-color: #334155;
@@ -231,7 +270,7 @@ html.dark-mode #theme-toggle:hover {
 }
 html.dark-mode .sidebar,
 html.dark-mode .author__urls {
-  background-color: #0f172a;
+  background-color: var(--bg);
 }
 html.dark-mode .author__name,
 html.dark-mode .sidebar .author__name {
@@ -295,7 +334,7 @@ html.dark-mode .author__avatar img {
   border-color: #334155;
 }
 html.dark-mode a {
-  color: #60a5fa;
+  color: var(--link);
 }
 html.dark-mode h1,
 html.dark-mode h2,
@@ -304,36 +343,36 @@ html.dark-mode h4 {
   color: #f1f5f9;
 }
 html.dark-mode .page__content h2 {
-  color: #60a5fa;
+  color: var(--site-blue);
 }
 html.dark-mode .page__footer {
-  background-color: #1e293b;
-  color: #94a3b8;
+  background-color: #07131a;
+  color: var(--text-muted);
 }
 html.dark-mode .page__footer a {
-  color: #94a3b8;
+  color: var(--text-muted);
 }
 html.dark-mode .greedy-nav {
-  background: #1e293b;
+  background: var(--surface);
 }
 html.dark-mode .experience-item {
-  background: #1e293b;
-  border-left-color: #3b82f6;
+  background: var(--surface);
+  border-left-color: var(--site-blue);
 }
 html.dark-mode .experience-role {
   color: #f1f5f9;
 }
 html.dark-mode .experience-company {
-  color: #60a5fa;
+  color: var(--site-blue);
 }
 html.dark-mode .experience-date,
 html.dark-mode .experience-item ul li {
   color: #94a3b8;
 }
 html.dark-mode .skill-tag {
-  background: #1e3a5f;
-  color: #93c5fd;
-  border-color: #1d4ed8;
+  background: var(--site-blue-soft);
+  color: #acd5eb;
+  border-color: var(--site-blue-border);
 }
 html.dark-mode .bio-body strong {
   color: #f1f5f9;
@@ -343,7 +382,7 @@ html.dark-mode .bio-date {
   color: #94a3b8;
 }
 html.dark-mode .pub-venue {
-  background: #1d4ed8;
+  background: #245a7d;
 }
 html.dark-mode .pub-year,
 html.dark-mode .pub-authors {
@@ -353,9 +392,9 @@ html.dark-mode .pub-authors strong {
   color: #e2e8f0;
 }
 html.dark-mode .pub-btn--paper {
-  background: #1e3a5f;
-  color: #93c5fd;
-  border-color: #1d4ed8;
+  background: var(--site-blue-soft);
+  color: #acd5eb;
+  border-color: var(--site-blue-border);
 }
 html.dark-mode .pub-btn--slides {
   background: #334155;
@@ -381,7 +420,15 @@ html.dark-mode .archive__item-title a {
   color: #e2e8f0;
 }
 html.dark-mode .archive__item-title a:hover {
-  color: #60a5fa;
+  color: var(--site-blue-hover);
+}
+
+.page__footer {
+  background-color: var(--site-navy-strong);
+  color: #c5d2da;
+}
+.page__footer a {
+  color: #dce7ec;
 }
 
 /* Publication list styles */
@@ -392,7 +439,7 @@ html.dark-mode .archive__item-title a:hover {
   gap: 0.5em;
 }
 .pub-venue {
-  background: #2563eb;
+  background: var(--site-navy);
   color: #fff;
   font-size: 0.75em;
   font-weight: 700;
@@ -430,9 +477,9 @@ html.dark-mode .archive__item-title a:hover {
 }
 .pub-btn:hover { opacity: 0.8; }
 .pub-btn--paper {
-  background: #eff6ff;
-  color: #2563eb;
-  border: 1px solid #bfdbfe;
+  background: var(--site-blue-soft);
+  color: var(--site-blue);
+  border: 1px solid var(--site-blue-border);
 }
 .pub-btn--slides {
   background: #f1f5f9;
@@ -458,7 +505,7 @@ html.dark-mode .archive__item-title a:hover {
 .experience-item {
   margin-bottom: 1.6em;
   padding: 1em 1.2em;
-  border-left: 3px solid #2563eb;
+  border-left: 3px solid var(--site-blue);
   background: #f8fafc;
   border-radius: 0 6px 6px 0;
 }
@@ -481,7 +528,7 @@ html.dark-mode .archive__item-title a:hover {
 }
 .experience-company {
   font-size: 0.9em;
-  color: #2563eb;
+  color: var(--site-blue);
   margin-top: 0.2em;
   margin-bottom: 0.5em;
   font-weight: 500;
