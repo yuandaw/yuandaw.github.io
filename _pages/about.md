@@ -69,7 +69,9 @@ I am a final-year PhD candidate from SEIT Lab, Department of Computer Science an
 
 Before MSU, I completed my undergraduate at Xi'an Jiaotong University, China.
 
+{% comment %}
 I'm actively seeking **Research Scientist, ML Engineer, or AI Engineer** roles in the U.S. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yuanda-wang-a52663179/) or email.
+{% endcomment %}
 
 ## Professional Experience
 

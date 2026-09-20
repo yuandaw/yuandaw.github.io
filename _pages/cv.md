@@ -205,7 +205,7 @@ html.dark-mode .bio-entry {
 <div class="bio-section">
   <div class="bio-section-title"><i class="fas fa-briefcase"></i> Professional Experience</div>
   <div class="bio-entry">
-    <div class="bio-date">Feb 2026 – Present</div>
+    <div class="bio-date">Feb – Jun 2026</div>
     <div class="bio-body">
       <div class="bio-org">
         <span class="bio-mark bio-mark--company">
