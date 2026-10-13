@@ -205,6 +205,18 @@ html.dark-mode .bio-entry {
 <div class="bio-section">
   <div class="bio-section-title"><i class="fas fa-briefcase"></i> Professional Experience</div>
   <div class="bio-entry">
+    <div class="bio-date">Sep 2026 – Present</div>
+    <div class="bio-body">
+      <div class="bio-org">
+        <span class="bio-mark bio-mark--company">
+          <img src="{{ base_path }}/images/logos/oracle.svg" alt="Oracle logo" loading="lazy" decoding="async">
+        </span>
+        <strong>Applied Scientist</strong>
+      </div>
+      <span>Oracle · Santa Clara, CA</span>
+    </div>
+  </div>
+  <div class="bio-entry">
     <div class="bio-date">Feb – Jun 2026</div>
     <div class="bio-body">
       <div class="bio-org">

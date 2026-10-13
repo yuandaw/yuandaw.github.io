@@ -65,15 +65,29 @@ html.dark-mode .experience-logo {
 }
 </style>
 
-I am a final-year PhD candidate from SEIT Lab, Department of Computer Science and Engineering, [Michigan State University](https://msu.edu/). My research focuses on **trustworthy AI, security & privacy** — especially threats and defenses related to Multimodal AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25, Interspeech'26), Voice Control Systems (NDSS'22), LLMs (RAID'23, arXiv'24), and IoT (MobiCom'20, CNS'24). I am advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
+I am an **Applied Scientist** on the **Oracle AI Science Team** at **Oracle Cloud Infrastructure (OCI)**, working on **LLM benchmark & evaluation**.
+
+I received my Ph.D. in Computer Science from [Michigan State University](https://msu.edu/), where I was a member of SEIT Lab in the Department of Computer Science and Engineering, advised by [Dr. Qiben Yan](https://cse.msu.edu/~qyan/). My research focuses on **trustworthy AI, security & privacy** — especially threats and defenses related to Multimodal AI (CCS'22, WiSec'23, RAID'23, MobiCom'24, AsiaCCS'25, USENIX Security'25, Interspeech'26), Voice Control Systems (NDSS'22), LLMs (RAID'23, arXiv'24), and IoT (MobiCom'20, CNS'24).
 
 Before MSU, I completed my undergraduate at Xi'an Jiaotong University, China.
 
-{% comment %}
-I'm actively seeking **Research Scientist, ML Engineer, or AI Engineer** roles in the U.S. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yuanda-wang-a52663179/) or email.
-{% endcomment %}
-
 ## Professional Experience
+
+<div class="experience-item">
+  <div class="experience-header">
+    <span class="experience-role">Applied Scientist</span>
+    <span class="experience-meta">
+      <span class="experience-logo">
+        <img src="{{ base_path }}/images/logos/oracle.svg" alt="Oracle logo" loading="lazy" decoding="async">
+      </span>
+      <span class="experience-date">Sep 2026 – Present</span>
+    </span>
+  </div>
+  <div class="experience-company">Oracle · AI Science Team</div>
+  <ul>
+    <li>LLM benchmark &amp; evaluation</li>
+  </ul>
+</div>
 
 <div class="experience-item">
   <div class="experience-header">
