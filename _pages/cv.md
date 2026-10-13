@@ -201,11 +201,10 @@ html.dark-mode .bio-entry {
     </div>
   </div>
 </div>
-
 <div class="bio-section">
   <div class="bio-section-title"><i class="fas fa-briefcase"></i> Professional Experience</div>
   <div class="bio-entry">
-    <div class="bio-date">Sep 2026 – Present</div>
+    <div class="bio-date">2026.9-present</div>
     <div class="bio-body">
       <div class="bio-org">
         <span class="bio-mark bio-mark--company">
@@ -217,7 +216,7 @@ html.dark-mode .bio-entry {
     </div>
   </div>
   <div class="bio-entry">
-    <div class="bio-date">Feb – Jun 2026</div>
+    <div class="bio-date">2026.2-2026.6</div>
     <div class="bio-body">
       <div class="bio-org">
         <span class="bio-mark bio-mark--company">
@@ -229,7 +228,7 @@ html.dark-mode .bio-entry {
     </div>
   </div>
   <div class="bio-entry">
-    <div class="bio-date">Sep – Dec 2025</div>
+    <div class="bio-date">2025.9-2025.12</div>
     <div class="bio-body">
       <div class="bio-org">
         <span class="bio-mark bio-mark--company">
@@ -241,7 +240,7 @@ html.dark-mode .bio-entry {
     </div>
   </div>
   <div class="bio-entry">
-    <div class="bio-date">Feb – Jul 2025</div>
+    <div class="bio-date">2025.2-2025.7</div>
     <div class="bio-body">
       <div class="bio-org">
         <span class="bio-mark bio-mark--company">
@@ -253,7 +252,7 @@ html.dark-mode .bio-entry {
     </div>
   </div>
   <div class="bio-entry">
-    <div class="bio-date">Sep – Dec 2022</div>
+    <div class="bio-date">2022.9-2022.12</div>
     <div class="bio-body">
       <div class="bio-org">
         <span class="bio-mark bio-mark--company">
@@ -265,7 +264,6 @@ html.dark-mode .bio-entry {
     </div>
   </div>
 </div>
-
 <div class="bio-section">
   <div class="bio-section-title"><i class="fas fa-code"></i> Skills</div>
   <div class="skill-tags">
@@ -277,16 +275,5 @@ html.dark-mode .bio-entry {
     <span class="skill-tag">AI Security</span>
     <span class="skill-tag">LLM</span>
     <span class="skill-tag">Audio Processing</span>
-  </div>
-</div>
-
-<div class="bio-section">
-  <div class="bio-section-title"><i class="fas fa-users"></i> Service & Leadership</div>
-  <div class="bio-entry">
-    <div class="bio-date">2020 – 2022</div>
-    <div class="bio-body">
-      <strong>Vice President</strong>
-      <span>MSU Badminton Club · Michigan State University</span>
-    </div>
   </div>
 </div>

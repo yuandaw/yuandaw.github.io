@@ -83,7 +83,7 @@ Before MSU, I completed my undergraduate at Xi'an Jiaotong University, China.
       <span class="experience-date">Sep 2026 – Present</span>
     </span>
   </div>
-  <div class="experience-company">Oracle · AI Science Team</div>
+  <div class="experience-company">Oracle · Santa Clara, CA</div>
   <ul>
     <li>LLM benchmark &amp; evaluation</li>
   </ul>
@@ -163,14 +163,6 @@ My full publication list is [here](/publications/).
 - Best Paper Honorable Mention Award · [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)
 - Student Travel Grant · [CNS 2020](https://cns2020.ieee-cns.org/)
 
-## Teaching
-
-CSE 335: Object-Oriented Software Development · Fall 2021 & Spring 2022
-
-## Invited Talk
-
-Michigan State University Graduate Student Seminar: *The Great Outage — Facebook Global Outage on Oct. 4, 2021*
-
 ## Review Service
 
 **Journals**
@@ -178,9 +170,11 @@ Michigan State University Graduate Student Seminar: *The Great Outage — Facebo
 - IEEE Transactions on Industrial Informatics
 - IEEE Internet of Things Journal
 - IEEE MultiMedia
+- IEEE/ACM Transactions on Audio, Speech, and Language Processing
+- IEEE Transactions on Dependable and Secure Computing
 
 **Conferences**
-- ICASSP 2025
+- ICASSP 2025 & 2026
 - AAAI Agent4IR Workshop 2025
 
 <div class="visitor-map">
@@ -188,3 +182,6 @@ Michigan State University Graduate Student Seminar: *The Great Outage — Facebo
     <img src="https://mapmyvisitors.com/map.png?d=UHI13khxg5ADg197FaCjqm4DGFIpEq7o6I73ImVXMic&cl=ffffff" alt="Map of visitor locations" loading="lazy" decoding="async">
   </a>
 </div>
+
+<!-- Before each push, check and update this date if needed. -->
+<p>Last edited: Oct 2026.</p>
